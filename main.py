@@ -39,9 +39,9 @@ from aiogram.client.session.middlewares.base import BaseRequestMiddleware
 # │  اینجا را ویرایش کن (مقدارها را بین "" یا عدد بگذار)    │
 # └──────────────────────────────────────────────────────┘
 # توکن جدید را از BotFather بگیر و اینجا بگذار (یا در متغیر محیطی BOT_TOKEN)
-BOT_TOKEN = os.getenv("BOT_TOKEN", "") or "9075735753:AAEi8HTJiI9H876TX6DFKwstC8hIrLgISMg"
+BOT_TOKEN = os.getenv("BOT_TOKEN", "") or "9093596325:AAEC4OrMOh1_ZD_HwVe91H7aIy4kc4xGw9w"
 SUPER_OWNER_ID = 8906898119
-VIP_USER_ID = 5958083910
+VIP_USER_ID = 0
 LLM_ENABLED = False
 LLM_API_URL = ""
 LLM_API_KEY = ""
